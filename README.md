@@ -11,3 +11,5 @@ desarrollado en Oracle SQL Developer Data Modeler.
 - `Exp1_S3_Rodolfo_Delgado.docx` — documento de respuesta con las
   capturas en notación Barker e Ingeniería de la Información
 - `HiLogic_Semana3.rar` — proyecto de Data Modeler (.dmd + subcarpeta)
+- [Modelo en notación Barker]`HiLogicBarker.png`
+- [Modelo en notación de Ingeniería de la Información]`HiLogicIngenieriaInformacion.png`
