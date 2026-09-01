@@ -3,6 +3,7 @@
 **Asignatura:** Modelamiento de Bases de Datos (PRY2204)
 **Estudiante:** Rodolfo Delgado
 **Profesor:** Sebastián Andrés Vásquez Basáez
+**Fecha:** 31 de agosto de 2026
 
 Modelo Entidad-Relación Extendido del caso HiLogic Solutions,
 desarrollado en Oracle SQL Developer Data Modeler.
@@ -11,5 +12,11 @@ desarrollado en Oracle SQL Developer Data Modeler.
 - `Exp1_S3_Rodolfo_Delgado.docx` — documento de respuesta con las
   capturas en notación Barker e Ingeniería de la Información
 - `HiLogic_Semana3.rar` — proyecto de Data Modeler (.dmd + subcarpeta)
-- `HiLogicBarker.png` — Modelo en notación Barker
-- `HiLogicIngenieriaInformacion.png` — Modelo en notación de Ingeniería de la Información
+
+## Modelo en notación Barker
+
+Modelo en notación Barker - `HiLogicBarker.png`
+
+## Modelo en notación de Ingeniería de la Información
+
+Modelo en notación de Ingeniería de la Información - `HiLogicIngenieriaInformacion.png`
